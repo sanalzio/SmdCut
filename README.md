@@ -1,8 +1,6 @@
 # SmdCut
 **Utility for cuting .SMD files to bypass GoldSrc engine's limits.**
 
-![Thumbnail](Thumbnail.jpg)
-
 ```
                                  SmdCut
     Utility for cuting .SMD files to bypass GoldSrc engine's limits.
