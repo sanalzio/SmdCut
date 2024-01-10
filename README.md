@@ -14,7 +14,7 @@
 - [SmdCut](#smdcut)
   - [Istallation](#istallation)
   - [Usage](#usage)
-- [Screenshots](#screenshots)
+  - [Screenshots](#screenshots)
   - [License](#license)
 
 ## Istallation
@@ -31,7 +31,7 @@ smdcut.exe <file1> <file2> <file3> ...
 > [!TIP]
 > **Or you can simply drag and drop the files you want to cut into smdcut.exe**
 
-# Screenshots
+## Screenshots
 
 ![1](scrn1.png)
 
