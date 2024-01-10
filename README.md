@@ -11,6 +11,12 @@
     Or you can simply drag and drop the files you want to cut into smdcut.exe
 ```
 
+- [SmdCut](#smdcut)
+  - [Istallation](#istallation)
+  - [Usage](#usage)
+- [Screenshots](#screenshots)
+  - [License](#license)
+
 ## Istallation
 [<img alt="downloadbtn" src="https://dabuttonfactory.com/button.png?t=Download&f=Ubuntu-Bold&ts=30&tc=fff&hp=15&vp=15&c=6&bgt=unicolored&bgc=238636&bs=4&bc=37914a" width="100px">](https://github.com/sanalzio/SmdCut/releases)
 
